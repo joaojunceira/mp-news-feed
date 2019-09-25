@@ -1,8 +1,6 @@
 
 # mp-news-feed
 
-[![Build Status](https://travis-ci.org/joaojunceira/mp-news-feed.svg?branch=master)](https://travis-ci.org/joaojunceira/mp-news-feed)
-
 MicroProfile example using Helidon
 
 It´s a simple news feed where you post news and retrieve them.
